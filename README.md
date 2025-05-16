@@ -58,7 +58,7 @@ https://leviathan-uchb.onrender.com
 ### Example Request
 
 ```bash
-curl "https://your-api.com/api/v1/stock/price?exchange=EGX&symbol=SWDY"
+curl "https://leviathan-uchb.onrender.com/api/v1/stock/price?exchange=EGX&symbol=SWDY"
 ```
 
 Response:
