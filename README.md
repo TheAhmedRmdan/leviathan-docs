@@ -75,7 +75,7 @@ Response:
 ```
 ### Swagger UI and Docs
 
-https://leviathan-uchb.onrender.com/docs
+<https://leviathan-uchb.onrender.com/docs>
 
 ---
 <h2>Supported Exchanges</h2>
