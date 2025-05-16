@@ -57,8 +57,8 @@ https://leviathan-uchb.onrender.com
 
 ### Example Request
 
-```http
-GET /api/v1/stock/price?exchange=EGX&symbol=SWDY
+```bash
+curl "https://your-api.com/api/v1/stock/price?exchange=EGX&symbol=SWDY"
 ```
 
 Response:
@@ -74,9 +74,9 @@ Response:
 }
 ```
 ### Swagger UI and Docs
-```
+
 https://leviathan-uchb.onrender.com/docs
-```
+
 ---
 <h2>Supported Exchanges</h2>
 <p>The following table shows the available worldwide exchanges with their corresponding time delays (for quotes), locations, and market identifier codes.</p>
