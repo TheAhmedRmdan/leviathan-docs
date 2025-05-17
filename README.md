@@ -3,6 +3,11 @@
 
 Leviathan is a powerful asynchronous stock and financial data API built with FastAPI. It integrates multiple data sources to provide essential financial metrics and company information.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/84f0f9c8-3d48-4940-a5eb-9969744713d6" alt="Description" width="400"/>
+</p>
+
+
 ## Features
 
 - Real-time and historical stock prices
