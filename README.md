@@ -41,6 +41,8 @@ Leviathan is a powerful asynchronous stock and financial data API built with Fas
 | GET | `/key-ratios` | Financial ratios over time |
 | GET | `/share-stats` | Share structure and volume stats |
 | GET | `/company-profile` | Overview of company profile |
+| GET | `/news` | Latest stock news headlines |
+| GET | `/detailed-news` | Latest stock news full text articles |
 
 ###  Financial Endpoints `/api/v1/financials`
 
