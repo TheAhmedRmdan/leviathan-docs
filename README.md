@@ -16,6 +16,7 @@ Leviathan is a powerful asynchronous stock and financial data API built with Fas
 - IPO information and upcoming financial events
 - Full financial statements (income, cash flow, balance sheet)
 - Key ratios and share statistics
+- Detailed stock news
 - Modular design for scalable integration
 
 ---
